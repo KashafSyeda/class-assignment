@@ -14,3 +14,5 @@ elif a == 3:
     word_bank[str(input("enter it in Alien language:"))] = str(input("enter word in English: "))
     print("Updated word_bank is: ", word_bank)
 
+else: 
+    print("\nERROR")
